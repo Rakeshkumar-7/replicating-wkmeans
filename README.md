@@ -19,4 +19,4 @@ Replicated the W-k-means algorithm as proposed in its paper by Huang et. al
 
   ![W-k-means p-value weights init result](https://github.com/Rakeshkumar-7/replicating-wkmeans/blob/main/images/p_value.png)
 
-  This time, the weight of the noise is 0.055 which is a slight imporvement compared to before
+  This time, the weight of the noise is 0.055 which is a slight improvement compared to before

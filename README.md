@@ -1,4 +1,4 @@
-# Replicating <a href="https://ieeexplore.ieee.org/abstract/document/1407871">W-k-means</a>
+# Replicating <a href="https://ieeexplore.ieee.org/abstract/document/1407871">W-k-means</a> for Noise Reduction in clustering data
 
 Replicated the W-k-means algorithm as proposed in its paper by Huang et. al
 
